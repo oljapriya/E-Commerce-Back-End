@@ -61,5 +61,6 @@ npm start```
 
 
 ## Contributing
-```Olja Priyakovich```
+Olja Priyakovich
 ## Test
+N/A
