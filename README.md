@@ -2,7 +2,7 @@
 
 ## Description
 
-A mysql database and application backend for an e-commerce site. Built using mysql2, express, sequelize and dotenv.
+```A mysql database and application backend for an e-commerce site. Built using mysql2, express, sequelize and dotenv.```
 
 ## Acceptance Criteria
 
@@ -33,10 +33,16 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Description
 
 ## User Story
-```npm init```
+
 ## Acceptance Criteria
 ## Table Of Contents
 ## Instalation
+```
+npm init
+npm install mysql12
+npm install sequelize
+npm install dotenv
+```
 ## Usage
 ## Contributing
 ## Test
