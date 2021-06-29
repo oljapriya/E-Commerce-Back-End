@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/79331882/123848244-81b27a00-d8e5-11eb-
 
 ## Acceptance Criteria
 
-```md
+```
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
