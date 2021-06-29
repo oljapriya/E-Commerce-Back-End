@@ -49,7 +49,6 @@ so that my company can compete with other e-commerce companies.
 ```
 
 ## Instalation
-
 ```npm init```
 ```npm install mysql12```
 ```npm install sequelize```
