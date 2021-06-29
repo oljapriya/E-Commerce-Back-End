@@ -3,6 +3,16 @@
 ## Description
 
 ```A mysql database and application backend for an e-commerce site. Built using mysql2, express, sequelize and dotenv.```
+mp4 showing the functionality of the application:
+
+
+https://user-images.githubusercontent.com/79331882/123848231-7c552f80-d8e5-11eb-8d34-b8c422f67bc4.mp4
+
+
+
+https://user-images.githubusercontent.com/79331882/123848244-81b27a00-d8e5-11eb-8723-1bc20ca7858d.mp4
+
+
 
 ## Acceptance Criteria
 
