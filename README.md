@@ -37,12 +37,11 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Acceptance Criteria
 ## Table Of Contents
 ## Instalation
-```
-npm init
-npm install mysql12
-npm install sequelize
-npm install dotenv
-```
+```npm init```
+```npm install mysql12```
+```npm install sequelize```
+```npm install dotenv```
+
 ## Usage
 ## Contributing
 ## Test
