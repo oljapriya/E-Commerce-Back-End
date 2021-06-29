@@ -42,9 +42,10 @@ THEN I am able to successfully create, update, and delete data in my database
 - 
 
 ## User Story
-```AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies.
+```
+As a manager at an internet retail company
+I want a back end for my e-commerce website that uses the latest technologies
+so that my company can compete with other e-commerce companies.
 ```
 
 ## Instalation
