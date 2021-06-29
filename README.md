@@ -38,16 +38,16 @@ SO THAT my company can compete with other e-commerce companies.
 ```
 
 ## Instalation
-```
-npm init
-npm install mysql12
-npm install sequelize
-npm install dotenv
-```
+
+```npm init```
+```npm install mysql12```
+```npm install sequelize```
+```npm install dotenv```
+
 
 
 ## Usage
-```Run the following command at the root of your project and answer the prompted questions:```
+Run the following command at the root of your project and answer the prompted questions:
 
 ```mysql -u root -p```
 
