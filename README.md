@@ -3,6 +3,7 @@
 ## Description
 
 ```A mysql database and application backend for an e-commerce site. Built using mysql2, express, sequelize and dotenv.```
+
 mp4 showing the functionality of the application:
 
 
@@ -49,9 +50,13 @@ so that my company can compete with other e-commerce companies.
 ```
 
 ## Instalation
+
 ```npm init```
+
 ```npm install mysql12```
+
 ```npm install sequelize```
+
 ```npm install dotenv```
 
 
